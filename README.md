@@ -28,34 +28,43 @@ Ensure you have **Python 3.8+** installed along with Jupyter Notebook or Jupyter
 ```bash
 git clone [https://github.com/sriteja-28/persona-aware-meeting-summarization-with-recursive-memory.git](https://github.com/sriteja-28/persona-aware-meeting-summarization-with-recursive-memory.git)
 cd your-repo-name
+```
 
-3. Create and Activate a Virtual Environment
+
+### 3. Create and Activate a Virtual Environment
 It is highly recommended to isolate your project dependencies:
 
 # On macOS/Linux
+```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 
 # On Windows
+```bash
 python -m venv venv
 .\venv\Scripts\activate
-4. Install Dependencies
+```
+
+### 4. Install Dependencies
 Install the required NLP, deep learning, and notebook libraries:
 
-Bash
-
+```bash
 pip install torch transformers datasets rouge-score bert-score jupyter notebook
+```
 (Note: If you prefer to use a requirements file instead, run pip install -r requirements.txt)
 
-5. Launch and Run the Notebook
+
+### 5. Launch and Run the Notebook
 Open the Jupyter interface:
 
-Bash
-
+```bash
 jupyter notebook
+```
+
 Click on NLP_Final_Meeting_Summarization.ipynb and select Kernel -> Restart & Run All from the top menu to execute the data preprocessing, model generation pipelines, and evaluation metrics step-by-step.
 
-📊 Evaluation Results Summary
+### 📊 Evaluation Results Summary
 Method 2 (Persona-Conditioned Two-Step Extraction) achieved a human validation score of 4.41/5 for Persona Relevance, drastically outperforming the Baseline (2.03/5) and Recursive Memory (2.80/5).
 
 Semantic embeddings measured via BERTScore proved to be a vastly more reliable quality indicator for role-conditioned abstractive tasks compared to token-matching metrics like ROUGE, which favor raw text lengths over quality constraints.
