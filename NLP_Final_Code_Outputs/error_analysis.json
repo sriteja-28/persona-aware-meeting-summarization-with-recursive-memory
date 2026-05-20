@@ -1,0 +1,20 @@
+{
+  "Baseline": {
+    "omission": "Decisions made in earlier chunks absent from later summaries",
+    "redundancy": "Same speaker re-introduced multiple times across chunk summaries",
+    "incoherence": "No narrative thread connecting action items to decisions",
+    "context_loss": "The rationale behind any decision is unavailable without the prior chunk context"
+  },
+  "Method1": {
+    "compression_loss": "Memory capping at 150 words discards early specifics",
+    "snowball_error": "Early summarization error propagates through all later steps",
+    "generic_drift": "Output converges to generic language over recursive updates",
+    "speaker_loss": "Individual speaker attributions diluted in memory compression"
+  },
+  "Method2": {
+    "prompt_sensitivity": "Persona output quality varies with minor prompt wording changes",
+    "fact_leakage": "Step 1 extraction occasionally includes cross-persona facts",
+    "keyword_anchoring": "Model anchors on persona keywords even when not factually supported",
+    "brevity_trade_off": "Role-specific focus causes omission of cross-cutting decisions"
+  }
+}

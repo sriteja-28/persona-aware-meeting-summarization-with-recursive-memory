@@ -1,0 +1,585 @@
+MODEL: PEGASUS
+============================================================
+
+
+MEETING: ES2002a
+────────────────────────────────────────
+BASELINE
+[Chunk 1]: In our regular series of Q&A sessions, we take a look back at some of the questions we've been asked over the past few months.
+
+[Chunk 2]: Here's a breakdown of the week's coding, as seen from the Scrum team's weekly meeting.
+
+[Chunk 3]: Here's a breakdown of the day-to-day workings of the JWT development team, as reported by the BBC's Scrum team.
+
+[Chunk 4]: Engineer A: Is OAuth2 going to be part of the release plan?
+
+[Chunk 5]: Here's a brief exchange between a project manager and a stakeholder during a meeting about a project for a Fortune 500 company.
+
+METHOD 1 — RECURSIVE MEMORY
+In our series of Q&A sessions, we take a look back at some of the questions we've been asked over the past months.
+
+METHOD 2 — PERSONA SUMMARIES
+
+[MANAGER]
+KW rate: 0.00
+Facts:
+In our series of letters from technology journalists, we've written a series of conversations between developers, stakeholders, and customers about what's on the horizon for React Native. In our series of letters from Silicon Valley journalists, Silicon Valley Wired's editor-in-chief, Sam Biddle, reflects on the week in the life of a Silicon Valley tech company. In our series of letters from technology journalists, writer and columnist David Shrigley reflects on his time working on one of the world's most popular social networks. In our series of letters from technology journalists, writer, and columnist David Kirkpatrick reflects on a meeting he had with a client to discuss the latest release of React Native. In our series of letters from journalists, film-maker, and columnist Tomi Lahren looks at what it's like to work for a major Hollywood studio.
+
+Summary:
+In our series of letters from technology journalists, we've written a series of conversations between developers, stakeholders, and customers about what's on the horizon for React Native.
+
+[ENGINEER]
+KW rate: 0.00
+Facts:
+In our series of letters from technology journalists, we've written a series of meetings between developers, customers, and stakeholders on the future of React Native. In our series of letters from software developers, we've written a series of conversations between project managers, engineers, and stakeholders about what's been going on behind the scenes in the development of a new web application. Here's how it works: In this series of letters from technology journalists, writer, and columnist David Kirkpatrick reflects on a meeting he had with a team of developers working on the latest release of React Native. In this week's Project Management Tip of the Week, we look at how to get the most out of a meeting between a project manager and a stakeholder.
+
+Summary:
+In this week's Project Management Tip of the Week, we look at how to get the most out of a meeting between a project manager and a stakeholder.
+
+[STAKEHOLDER]
+KW rate: 0.00
+Facts:
+In our series of letters from technology journalists, we've picked out some of the most interesting conversations you've had at a technology meeting. Here's a breakdown of the key points from a meeting between the project manager, the engineer, the stakeholder, and the stakeholder. Here's how it works: In our series of letters from technology journalists, writer, and columnist David Shrigley reflects on a recent meeting with a client who had postponed a demo of the latest version of their app because of an issue with their database. In this week's Project Management Tip of the Week, we look at a meeting between the client, the project manager, and the stakeholder.
+
+Summary:
+In our series of letters from technology journalists, we've picked out some of the most interesting conversations you've had at a technology meeting.
+
+MEETING: ES2002b
+────────────────────────────────────────
+BASELINE
+[Chunk 1]: In the latest episode of our series on Apple's software development team, engineers and designers discuss the progress of the company's new mobile app.
+
+[Chunk 2]: In our series of letters from software engineers, engineer A explains why he's working on a dashboard that's "lazy" and "dark".
+
+[Chunk 3]: Here's a breakdown of the design team's meeting on Thursday, where they discussed how to improve Waze's navigation.
+
+[Chunk 4]: Check-in for the week ahead:
+
+METHOD 1 — RECURSIVE MEMORY
+In Case You Missed It: A round-up of interesting technology-related links shared over the weekend.
+
+METHOD 2 — PERSONA SUMMARIES
+
+[MANAGER]
+KW rate: 0.03
+Facts:
+In our series of letters from leading technology journalists, film-maker, and columnist Shiraz Maher digs into the behind-the-scenes workings of Apple's software development team. In our series of letters from African journalists, film-maker, and columnist Ahmed Rashid looks at some of the key issues facing the continent's film industry. Here's a partial transcript of a meeting between Apple's senior designers, engineers and owners about how to improve the iPhone's home screen. Here are the results of Tuesday's board meeting, which was held to discuss the future of the club.
+
+Summary:
+In Case You Missed It: a round-up of interesting technology-related links shared over the weekend.
+
+[ENGINEER]
+KW rate: 0.05
+Facts:
+In our series of letters from leading technology journalists, film-maker and columnist Sam Biddle reflects on his time working on the BBC World News website. In our series of letters from software engineers, engineer A, who is working on a dashboard for Google's Android operating system, explains how he's been working on improving the experience for Android users. The following is a verbatim transcript of a meeting between a designer, engineer, researcher and project manager on how to improve Waze's navigation system. This is the first of a series of weekly meetings to keep you up-to-date on the latest developments in the project.
+
+Summary:
+The BBC's technology team met with Waze's designer, engineer and project manager to discuss how to improve the Waze navigation system.
+
+[STAKEHOLDER]
+KW rate: 0.03
+Facts:
+Here's a breakdown of the meeting between Facebook's design team and Project Manager on Tuesday, as they discussed the next phase of the social network's redesign. Here's an example of what can go wrong if you don't do the right things at the right time. This week we're looking at the design of a project management app. Project Manager: Great.
+
+Summary:
+This week we're looking at the design of a project management app.
+
+MEETING: ES2002c
+────────────────────────────────────────
+BASELINE
+[Chunk 1]: In our series of letters from software developers, we look at some of the issues that developers face when trying to deliver software on time and on budget.
+
+[Chunk 2]: Scrum Master: Engineers, we're working on a fix.
+
+[Chunk 3]: Sprint two scope: export moves out.
+
+METHOD 1 — RECURSIVE MEMORY
+In our series of letters from software developers, we look at some of the issues that developers face when [...]
+
+METHOD 2 — PERSONA SUMMARIES
+
+[MANAGER]
+KW rate: 0.00
+Facts:
+In our series of letters from software developers, we've collected some of the most common questions developers ask about their work. In our series of letters from technology journalists, we've written a series of conversations between Scrum Master, Project Manager, and engineer about the most pressing issues facing their teams. Here's a full transcript of the Scrum Master's final sprint of the year:
+
+Summary:
+In our series of letters from technology journalists, we've written a series of conversations between Scrum Master, Project Manager, and engineer about the most pressing issues facing their teams.
+
+[ENGINEER]
+KW rate: 0.02
+Facts:
+In our series of Scrum Meets the Customer, we're going to look at one of the most common problems developers have when trying to deliver a product on time and on budget. This is a verbatim transcript of a Scrum meeting. Sprint three scope: payment integration, notification system, admin dashboard
+
+Summary:
+Scrum Meets the Customer is a series of meetings where we look at one of the most common problems developers have when trying to deliver a product on time and on budget.
+
+[STAKEHOLDER]
+KW rate: 0.03
+Facts:
+In our series of Scrum Meets the CEO, we look at a Scrum meeting between the chief executive of a Fortune 500 company and the head of the company's Scrum team. In our series of letters from the world's leading business journalists, we've collected some of the most important stories from the past week. Here's a breakdown of the key events in the final sprint of the project:
+
+Summary:
+In our series of letters from the world's leading business journalists, we've collected some of the most important stories from the past week.
+
+MEETING: ES2002d
+────────────────────────────────────────
+BASELINE
+[Chunk 1]: In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at some of the key security issues facing the continent.
+
+[Chunk 2]: Project Manager: Engineer A: I'll handle the SQL injection today.
+
+[Chunk 3]: In our series of letters from software developers, we've asked a team of engineers to come up with a solution to a security problem.
+
+[Chunk 4]: In this week's Hacker News, we catch up with some of the people who have been working on the legal website for the EU referendum.
+
+METHOD 1 — RECURSIVE MEMORY
+In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at some of the key security issues facing the continent.
+
+METHOD 2 — PERSONA SUMMARIES
+
+[MANAGER]
+KW rate: 0.03
+Facts:
+Here's an example of what went wrong during a security audit of an Amazon Web Services (AWS) application. We're meeting today to discuss how to resolve three critical security issues on GitHub: rate limiting, TLS enforcement, and SQL injection. In our series of letters from the world's leading technology journalists, writer, and columnist Stephen Sackur reflects on a meeting he had with a senior executive at a major global technology company. In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the key issues facing the continent's film industry.
+
+Summary:
+In Case You Missed It: a round-up of interesting technology-related links shared over the weekend.
+
+[ENGINEER]
+KW rate: 0.00
+Facts:
+In our series of letters from African journalists, BBC Africa's M Ilyasov looks at one of the most common security concerns facing African journalists. GitHub's Security Lead and Engineer A met with the Project Manager to discuss how to resolve three critical security issues. In our series of letters from African journalists, filmmaker and columnist Ahmed Rashid looks at the challenges faced by African journalists working in the news industry. In this week's Hacker News, we take a look at the challenges faced by the team working on the EU's legal aid website.
+
+Summary:
+GitHub's Security Lead and Engineer A met with the Project Manager to discuss how to resolve three critical security issues.
+
+[STAKEHOLDER]
+KW rate: 0.03
+Facts:
+In our series of letters from African journalists, filmmaker, and columnist Ahmed Rashid looks at a recent meeting between a senior executive and a security team at one of the world's largest banks. We're meeting to discuss how we can improve the security of our website. In our series of letters from technology journalists, technology writer and BBC technology correspondent Tomi Lahren looks at a typical day in the life of a tech company. In the second of our series of letters from senior executives, the BBC's Mark Lowen meets up with the head of legal at one of the UK's biggest law firms to find out what's on his mind as he prepares to launch the firm's new app.
+
+Summary:
+In our series of letters from senior executives, the BBC's Mark Lowen meets up with the head of legal at one of the UK's biggest law firms to find out what is on his mind as he prepares to launch the firm's new app.
+
+MEETING: ES2002e
+────────────────────────────────────────
+BASELINE
+[Chunk 1]: Here's a breakdown of the team's progress over the past few weeks as they prepared for the launch of their new mobile app.
+
+[Chunk 2]: Here's a breakdown of the day-to-day workings of the development team behind the latest release of React Native.
+
+[Chunk 3]: Project Manager: What's the plan?
+
+[Chunk 4]: The following is a transcript of a meeting between the QA team and the Project Manager about the day-one patch for Call of Duty: Black Ops II.
+
+METHOD 1 — RECURSIVE MEMORY
+Microsoft has released a day-one patch for the Windows 7 operating system, which fixes three "medium" bugs.
+
+METHOD 2 — PERSONA SUMMARIES
+
+[MANAGER]
+KW rate: 0.00
+Facts:
+Here's a breakdown of the team's progress over the past six months on the iOS version of Apple's iPad app. Here's a breakdown of the meeting between the QA team, the Stakeholders, the Project Manager, and the Engineer. In our series of letters from start-ups, we've been following the progress of the Datadog team as they prepare for the launch of their new web application. Here's a breakdown of the meeting that led up to the release of the first major patch for Call of Duty: Black Ops II.
+
+Summary:
+Here's a breakdown of the meeting that led up to the release of the first major patch for Call of Duty: Black Ops II.
+
+[ENGINEER]
+KW rate: 0.02
+Facts:
+Here's a breakdown of the team's progress over the past six weeks: The following is a summary of the meeting between the team responsible for the release of the latest version of React. In our series of letters from leading technology journalists, writer, and columnist David Shrigley reflects on a meeting with the team behind his latest technology project. The following is a verbatim transcript of the meeting between the QA team and the Project Manager to discuss the day-one patch for Minecraft.
+
+Summary:
+In our series of letters from leading technology journalists, writer, and columnist David Shrigley reflects on a meeting with the team behind his latest technology project.
+
+[STAKEHOLDER]
+KW rate: 0.06
+Facts:
+Here's a breakdown of the meeting: Here's a breakdown of the meeting between the project manager, the QA team, the stakeholder, and the engineer. Here's a quick rundown of the key points of this week's meeting between the Datadog team, the client, and the Project Manager. Here's a breakdown of the meeting that led up to the release of the latest version of the Clash of Clans game.
+
+Summary:
+Here's a quick rundown of the key points of this week's meeting between the Datadog team, the client, and the Project Manager.
+
+MEETING: IS1003a
+────────────────────────────────────────
+BASELINE
+[Chunk 1]: In our series of letters from Silicon Valley journalists, we've asked some of the people working on Apple's iPhone 7 and 7 Plus to share their thoughts on the device's design.
+
+[Chunk 2]: Here's a round-up of some of the key moments from Apple's Worldwide Developers Conference (WWDC), which took place this year in San Francisco.
+
+[Chunk 3]: Here's a selection of highlights from a recent meeting between engineers and project managers at chipmaker Qualcomm, as reported by BBC News.
+
+METHOD 1 — RECURSIVE MEMORY
+In our series of letters from African journalists, film-maker and columnist Youssou N'Dour looks at some of the key stories from the continent this week.
+
+METHOD 2 — PERSONA SUMMARIES
+
+[MANAGER]
+KW rate: 0.00
+Facts:
+In our series of letters from technology journalists, we've written about a meeting between Apple's product managers, engineers, and industrial designers to discuss the company's next smartphone. In our series of letters from US journalists, writer, and columnist Maureen O'Connor reflects on a meeting she had with the team behind Apple's iPhone 5. In our series of letters from the world's leading technology journalists, BBC News takes a behind-the-scenes look at Apple's design and production processes for the iPhone 6.
+
+Summary:
+In our series of letters from the world's leading technology journalists, BBC News takes a behind-the-scenes look at Apple's design and production processes for the iPhone 6.
+
+[ENGINEER]
+KW rate: 0.05
+Facts:
+In our series of letters from technology journalists, we've written a series of one-on-one meetings between engineers, designers, and project managers at Apple. This is a verbatim transcript of a meeting between the marketing team, the project manager, the engineer, and the industrial designer about the development of a voice-activated tablet computer. In our series of letters from leading technology journalists, film-maker and columnist Tomi Lahren looks at some of the behind-the-scenes issues that affect the development of new technology.
+
+Summary:
+This is a verbatim transcript of a meeting between the marketing team, the project manager, the engineer, and the industrial designer about the development of a voice-activated tablet computer.
+
+[STAKEHOLDER]
+KW rate: 0.00
+Facts:
+In our series of letters from technology journalists, we've written a series of one-on-one meetings between senior executives at Apple and their design team. This is a verbatim transcript of a meeting between a marketing team, an industrial designer, a project manager, and an engineer about the development of a voice-activated assistant for Apple's iPhone. In our series of weekly meetings with senior executives at leading technology companies, BBC News takes a behind-the-scenes look at how Apple's iPhone project is shaping up.
+
+Summary:
+BBC News looks at the behind-the-scenes workings of Apple's voice-activated assistant project.
+
+MEETING: IS1003b
+────────────────────────────────────────
+BASELINE
+[Chunk 1]: In our series of letters from African journalists, film-maker and columnist M Ilyasov looks at the design of a pocket-sized camera.
+
+[Chunk 2]: In our series of letters from African journalists, film-maker and columnist M Ilyasov looks at the challenges faced by African-Canadians in the film and TV industry.
+
+[Chunk 3]: Here's a breakdown of the meetings that took place between engineers, designers, marketing and project managers over the past few weeks on the company's plans for a voice-controlled smartphone.
+
+METHOD 1 — RECURSIVE MEMORY
+In our series of letters from African journalists, film-maker and columnist M Ilyasov looks at the design of a pocket-sized camera.
+
+METHOD 2 — PERSONA SUMMARIES
+
+[MANAGER]
+KW rate: 0.00
+Facts:
+In our series of letters from African journalists, film-maker and columnist Ahmed Rashid reflects on a meeting he had with a team of designers, engineers and marketers working on a new range of mobile phones. In our series of letters from African journalists, film-maker and columnist M Ilyasov looks at one company's decision-making process. In our series of letters from technology journalists, BBC News takes a look at some of the key moments in the development of Apple's iPhone 5.
+
+Summary:
+In our series of letters from technology journalists, BBC News takes a look at some of the key moments in the development of Apple's iPhone 5.
+
+[ENGINEER]
+KW rate: 0.00
+Facts:
+In this series of letters from African journalists, you'll find out what it's really like to work for one of the continent's leading news organisations. In our series of letters from African journalists, film-maker and columnist M Ilyasov looks at the challenges faced by African journalists working in the film industry. In our series of letters from UK-based technology journalists, writer and columnist Paul Carter reflects on his time at ARM, where he worked on the company's first voice-controlled smartphone.
+
+Summary:
+The BBC's technology team has been in South Africa for the annual Mobile World Congress (MWC) - the world's largest mobile phone trade show.
+
+[STAKEHOLDER]
+KW rate: 0.00
+Facts:
+This meeting was arranged by the consultancy firm Begbies Traynor. In our series of letters from African journalists, film-maker and columnist M Ilyasov looks at the business of making art. In our series of letters from technology journalists, we've put together a selection of the most interesting snippets from meetings held by chipmakers over the past year.
+
+Summary:
+In our series of letters from technology journalists, we've put together a selection of the most interesting snippets from meetings held by chipmakers over the past year.
+
+MEETING: IS1003c
+────────────────────────────────────────
+BASELINE
+[Chunk 1]: In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the results of the latest round of testing on a retro-looking smartphone.
+
+[Chunk 2]: Project Manager: Is there a way to make it feel more tactile?
+
+[Chunk 3]: Here's a breakdown of the week's work on the Syntiant chip, which will be used in the Apple Watch.
+
+METHOD 1 — RECURSIVE MEMORY
+The BBC's technology correspondent, Ahmed Rashid, has been speaking to engineers and marketers working on Apple's new iPhone 7 Plus about how to make the device recognise wake words.
+
+METHOD 2 — PERSONA SUMMARIES
+
+[MANAGER]
+KW rate: 0.03
+Facts:
+In our series of letters from African journalists, film-maker, and columnist M Ilyaschuk looks at the latest developments in the production of the BBC's new tablet computer. Here's a breakdown of what went down at Apple's Worldwide Developers Conference this week. Here's a breakdown of the meeting between the Syntiant team, the marketing team, and the project manager.
+
+Summary:
+The BBC's Syntiant team, marketing team, and the project manager met this week to discuss the production of the new tablet computer.
+
+[ENGINEER]
+KW rate: 0.00
+Facts:
+In our series of letters from African journalists, film-maker, and columnist M Ilyaschuk looks at the latest developments in the production and distribution of African films. In our series of letters from journalists, film-maker, and columnists, writer and columnist David Shrigley reflects on a week in the life of a wearable tech project. Here's an example of a meeting between an engineer, a marketing manager, a project manager, and a stakeholder.
+
+Summary:
+Here's an example of a meeting between an engineer, a marketing manager, a project manager, and a stakeholder.
+
+[STAKEHOLDER]
+KW rate: 0.00
+Facts:
+In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the challenges and opportunities facing the continent's film industry. In our series of weekly meetings with senior executives from some of the world's largest technology companies, we look at the challenges and opportunities facing the team working on Apple's iPhone 5. Here's an example of a meeting between a chipmaker, a marketing team, and a project manager to discuss a wake word for a smartphone.
+
+Summary:
+In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the challenges and opportunities facing the continent's film industry.
+
+MEETING: IS1003d
+────────────────────────────────────────
+BASELINE
+[Chunk 1]: In our series of letters from UK-based start-up companies, BBC News takes a look at some of the challenges faced by start-ups as they prepare to launch new products.
+
+[Chunk 2]: Here's a round-up of some of the key decisions made by the team behind the launch of a new range of children's clothing.
+
+[Chunk 3]: Key word: delayed.
+
+METHOD 1 — RECURSIVE MEMORY
+In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at some of the key issues facing the continent's film industry.
+
+METHOD 2 — PERSONA SUMMARIES
+
+[MANAGER]
+KW rate: 0.00
+Facts:
+In our series of letters from African journalists, filmmaker and columnist Ahmed Rashid looks at the progress being made by the makers of the Syntiant, a pocket-sized voice-controlled speaker. In our series of letters from African journalists, filmmaker and columnist Ahmedou Ould-Abdallah reflects on a meeting he had with a team of designers, engineers and project managers working on a new clothing line. Here's what we know so far about the forthcoming augmented reality game, Pokemon Go.
+
+Summary:
+In our series of letters from African journalists, filmmaker and columnist Ahmedou Ould-Abdallah reflects on a meeting he had with a team of designers, engineers and project managers working on a new clothing line.
+
+[ENGINEER]
+KW rate: 0.02
+Facts:
+In our series of letters from technology journalists, writer, and columnist Danica Bellini looks at the final stages of the development of Syntiant's voice-controlled smart glasses. In our series of letters from African journalists, writer and novelist Paul Auster looks at the challenges faced by a start-up trying to launch a new product. How do you keep track of the progress of your project?
+
+Summary:
+In our series of letters from technology journalists, writer, and columnist Danica Bellini looks at the final stages of the development of Syntiant's voice-controlled smart glasses.
+
+[STAKEHOLDER]
+KW rate: 0.00
+Facts:
+In our series of letters from technology journalists, writer, and columnist David Shrigley looks at the challenges and opportunities facing the wearable tech industry. In our series of letters from African journalists, writer and columnist Paul Carter reflects on a meeting he had with a team developing a new range of children's clothing. Here's a quick breakdown of the key points from the meeting between the team behind the forthcoming augmented reality game, Pokemon Go, and its retail partners.
+
+Summary:
+In our series of letters from technology journalists, writer and columnist David Shrigley looks at the challenges and opportunities facing the wearable tech industry.
+
+MEETING: IS1006a
+────────────────────────────────────────
+BASELINE
+[Chunk 1]: In our series of letters from students, we look at the challenges faced by one of this year's design teams.
+
+[Chunk 2]: In our series of Q&A's with leading technology companies, we've heard from engineers working on e-ink displays for smartphones and tablets.
+
+[Chunk 3]: Here's a breakdown of the week's work on the Apple Watch:
+
+METHOD 1 — RECURSIVE MEMORY
+In Case You Missed It: A daily round-up of interesting technology-related links shared over the past 24 hours.
+
+METHOD 2 — PERSONA SUMMARIES
+
+[MANAGER]
+KW rate: 0.00
+Facts:
+In the second of our series of letters from technology journalists, BBC News takes a behind-the-scenes look at the design team behind an energy-monitoring device for the home. In the second of our series of letters from technology journalists, we look at a meeting between Adobe's marketing team and the company's project manager on e-ink technology. In our series of meetings with Apple engineers and designers, we've taken a look at some of the key issues facing the team working on the iPad mini.
+
+Summary:
+In our series of letters from technology journalists, we look at a meeting between Adobe's marketing team and the company's project manager on e-ink technology.
+
+[ENGINEER]
+KW rate: 0.00
+Facts:
+In our series of letters from technology journalists, writer, and columnist Tim Conneally reflects on a recent meeting with a team of engineers working on a new product. In our series of letters from technology journalists, writer, and columnist Stephen Sackur looks at the challenges facing the team behind e-ink, a pocket-sized printer that can read a variety of data sources. In our series of letters from journalists, film-maker, and columnists, you'll find some of the best examples of what it's really like to work for Apple.
+
+Summary:
+In our series of letters from technology journalists, writer, and columnist Tim Conneally reflects on a recent meeting with a team of engineers working on a new product.
+
+[STAKEHOLDER]
+KW rate: 0.00
+Facts:
+In our series of letters from African journalists, BBC Africa's Paul Carter meets up with a team of engineers working on a new product for the African market. In our series of letters from African journalists, BBC Africa's Sonita Sehgal reflects on a meeting between a marketing team, a project manager, and an engineer on how to sell e-ink technology to the oil and gas industry. In our series of letters from leading Silicon Valley journalists, film-maker, and columnist Mark Hertsgaard looks at the behind-the-scenes workings of Apple's iPhone development team.
+
+Summary:
+In our series of letters from Silicon Valley journalists, film-maker, and columnist Mark Hertsgaard looks at the behind-the-scenes workings of Apple's iPhone development team.
+
+MEETING: IS1006b
+────────────────────────────────────────
+BASELINE
+[Chunk 1]: In our series of letters from British journalists, BBC News takes a look at the design of the BBC iCue, a pocket-sized computer with a built-in e-ink display.
+
+[Chunk 2]: Project Manager: I'd like to see the USB-C port on the top edge of the device, rather than on the bottom.
+
+[Chunk 3]: Engineer A: We need to finalise the scope of the project.
+
+METHOD 1 — RECURSIVE MEMORY
+In our series of letters from British journalists, BBC News takes a look at the design of the BBC iCue, a pocket-sized computer with a built-in e-ink display.
+
+METHOD 2 — PERSONA SUMMARIES
+
+[MANAGER]
+KW rate: 0.00
+Facts:
+In the second of our series of interviews with the makers of Apple's new iPad Pro, Tim Cook explains how the team has been working on the tablet's PCB. In our series of letters from technology journalists, writer, and columnist Tim Conneally reflects on his time working with Apple on the iPhone 6 and 6 Plus. In our series of letters from the world's leading technology journalists, BBC technology correspondent Will Grant meets up with the team behind the energy-monitoring app Energywatch to discuss the next phase of development.
+
+Summary:
+In our series of letters from technology journalists, writer, and columnist Tim Conneally reflects on his time working with Apple on the iPhone 6 and 6 Plus.
+
+[ENGINEER]
+KW rate: 0.00
+Facts:
+In our series of letters from technology journalists, BBC News takes a behind-the-scenes look at the making of the BBC One Controller. In our series of letters from journalists, film-maker, and columnists, writer and columnist David Shrigley reflects on his time working with Apple on the iPhone 6 and 6 Plus. In our series of letters from the world's leading technology journalists, BBC News takes a behind-the-scenes look at the development of an energy management app for Apple's iPhone and iPad.
+
+Summary:
+In our series of letters from technology journalists, BBC News takes a behind-the-scenes look at the making of the BBC One Controller.
+
+[STAKEHOLDER]
+KW rate: 0.00
+Facts:
+In our series of letters from African journalists, BBC Africa's technology editor, Paul Carter, meets up with the team behind the BBC's forthcoming e-paper tablet, the Watchman. In our series of letters from journalists, film-makers, and columnists, writer and columnist David Shrigley reflects on his time working for Apple. In our series of letters from African journalists, BBC Africa's technology editor, Paul Carter, looks at a meeting between the chief technology officer (CTO) and the project manager for a new energy management app for smartphones.
+
+Summary:
+In our series of letters from African journalists, BBC Africa's technology editor, Paul Carter, meets up with the team behind the BBC's forthcoming e-paper tablet, the Watchman.
+
+MEETING: IS1006c
+────────────────────────────────────────
+BASELINE
+[Chunk 1]: In our series of letters from journalists, project managers and journalists from the BBC News website look at the results of a two-week test of a new energy monitoring device.
+
+[Chunk 2]: This week we're looking at how to improve the installation and use of a clamp and an app designed to alert users when their electricity bills are about to rise.
+
+[Chunk 3]: What do you think should be done to improve the weekly email experience on Facebook Messenger?
+
+METHOD 1 — RECURSIVE MEMORY
+What do you think about Apple's weekly email newsletter?
+
+METHOD 2 — PERSONA SUMMARIES
+
+[MANAGER]
+KW rate: 0.03
+Facts:
+At a recent meeting of the US Green Building Council (USGBC), representatives from the USGBC's energy management arm, Green Building America (GBA), met with representatives from Google's Nest Labs to discuss the development of a smart thermostat. The BBC's technology team has been meeting to discuss how to improve the BBC iPlayer app and clamp, two of its most popular products. What do you think should be done to improve the weekly email newsletter for your app?
+
+Summary:
+In Case You Missed It: a round-up of interesting technology-related links shared over the weekend.
+
+[ENGINEER]
+KW rate: 0.02
+Facts:
+The following is a verbatim transcript of the meeting between the project manager, the researcher, the marketing lead, and the usability manager of the energy monitor project. In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at the challenges faced by the team behind the BBC's new mobile app, which aims to make it easier for people in developing countries to use the internet. Here's a quick guide to how to get the most out of your new app.
+
+Summary:
+The team behind the BBC's new mobile app, which aims to make it easier for people in developing countries to use the internet, have met to discuss the challenges faced with the project.
+
+[STAKEHOLDER]
+KW rate: 0.00
+Facts:
+This is a verbatim transcript of a meeting between a project manager, a marketing lead, and a researcher on how to market an energy monitor. This meeting was held at the University of Cambridge to discuss the development of a clamp and an app for use with the clamp. What do you think are the biggest challenges facing the development of an app?
+
+Summary:
+How do you think the development of a clamp and an app for use with the clamp should be managed?
+
+MEETING: TS3003a
+────────────────────────────────────────
+BASELINE
+[Chunk 1]: In the second of our series of letters from software developers, we look at the challenges faced by a team developing a new software platform.
+
+[Chunk 2]: In our series of Q&A's with software developers, we look at some of the key points from a recent meeting between two developers working on a big data project.
+
+[Chunk 3]: Here's an example of a meeting between a developer, a project manager, and an architect on how to migrate a client's legacy web applications to the cloud.
+
+METHOD 1 — RECURSIVE MEMORY
+In our series of letters from software developers, we look at the challenges faced by a team developing a new software platform
+
+METHOD 2 — PERSONA SUMMARIES
+
+[MANAGER]
+KW rate: 0.00
+Facts:
+In the second of our series of letters from technology journalists, BBC technology correspondent James Reynolds meets up with a team of developers working on a new software platform for the BBC iPlayer. This is a verbatim transcript of the meeting between Amazon Web Services (AWS) developers and the company's chief technology officer (CTO). In our series of letters from technology journalists, writer, and columnist David Kirkpatrick looks at some of the key decisions being made by the team working on the Salesforce.com big data project.
+
+Summary:
+In our series of letters from technology journalists, BBC technology correspondent James Reynolds meets up with a team of developers working on a new software platform for the BBC iPlayer.
+
+[ENGINEER]
+KW rate: 0.02
+Facts:
+In our series of letters from software developers, we've asked a team of developers at a large technology company to describe what they're working on. This is a verbatim transcript of the meeting between the developers and the project manager on how to ingest petabytes of data into Kafka. In our series of letters from software developers, we've picked out some of the key points of a meeting between a developer, a project manager, and a client.
+
+Summary:
+In our series of letters from software developers, we've picked out some of the key points of a meeting between a developer, a project manager, and a client.
+
+[STAKEHOLDER]
+KW rate: 0.03
+Facts:
+In our series of letters from African journalists, writer and columnist Paul Carter looks at the challenges and opportunities facing the continent's media industry. This is a verbatim transcript of the meeting between the project manager, the architect, the developer, and the chief technology officer (CTO) on how to ingest petabytes of unstructured data. In our series of letters from technology journalists, writer, and columnist David Kirkpatrick looks at some of the key decisions made in a recent meeting between a client, developer, and project manager.
+
+Summary:
+In our series of letters from technology journalists, writer and columnist David Kirkpatrick looks at some of the key decisions made in a recent meeting between a client, developer, and project manager.
+
+MEETING: TS3003b
+────────────────────────────────────────
+BASELINE
+[Chunk 1]: The following is a transcript of a conversation between a developer and a project manager on a large-scale data warehouse project.
+
+[Chunk 2]: In our series of Q&A's with software developers, we asked developer A and developer B for their progress on building a Kafka-like platform for real-time data ingestion.
+
+[Chunk 3]: Here's a round-up of some of the key points from last week's meeting between developers, architects and project managers at Facebook's headquarters in London.
+
+METHOD 1 — RECURSIVE MEMORY
+In our series of letters from software developers, we've been hearing from people working on some of the biggest data warehouses in the world.
+
+METHOD 2 — PERSONA SUMMARIES
+
+[MANAGER]
+KW rate: 0.03
+Facts:
+This is a transcript of a meeting between a developer, an architect, a project manager, and a client. In our series of letters from software developers, we've been hearing from developers working on the next generation of Apache Kafka. In our series of letters from Silicon Valley journalists, Silicon Valley Wired's editor-in-chief, Dan Primack, looks at some of the key decisions that have been made at Google's parent company, Alphabet.
+
+Summary:
+In our series of letters from software developers, Silicon Valley Wired's editor-in-chief, Dan Primack, looks at some of the key decisions that have been made at Google's parent company, Alphabet.
+
+[ENGINEER]
+KW rate: 0.00
+Facts:
+This is the transcript of a meeting between a developer, an architect, a project manager, and a client. In our series of letters from software developers, we've asked a team of developers to tell us what they're working on. In our series of letters from technology journalists, film-maker, and columnist Tomi Lahren looks at some of the key issues facing the technology industry today.
+
+Summary:
+In our series of letters from technology journalists, film-maker and columnist Tomi Lahren looks at some of the key issues facing the technology industry today.
+
+[STAKEHOLDER]
+KW rate: 0.00
+Facts:
+In our series of letters from software developers, we take a look at some of the challenges faced by developers working on big data projects. In our series of letters from software developers, we look at a recent meeting between a developer and a project manager. In our series of letters from Silicon Valley journalists, film-maker and columnist Tomi Lahren looks at the behind-the-scenes workings of one of the world's biggest technology companies.
+
+Summary:
+In our series of letters from software developers, we look at some of the challenges faced by developers working on big data projects.
+
+MEETING: TS3003c
+────────────────────────────────────────
+BASELINE
+[Chunk 1]: In our series of letters from software developers, project manager and architect discuss the status of their projects.
+
+[Chunk 2]: The following is a verbatim transcript of a meeting between a developer, a project manager, and an architect working on an Amazon Web Services (AWS) project.
+
+[Chunk 3]: In our series of letters from software developers, we look at some of the most common questions developers get from their customers.
+
+[Chunk 4]: Project Manager - Do it.
+
+METHOD 1 — RECURSIVE MEMORY
+New transcript section: Project Manager: Do it.
+
+METHOD 2 — PERSONA SUMMARIES
+
+[MANAGER]
+KW rate: 0.00
+Facts:
+In our series of letters from software developers, we've been looking at what's been going on behind the scenes in the Ruby on Rails project. In our series of letters from software developers, we've written about a meeting between a developer, a project manager, an architect, and a client. In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the key issues facing African journalists today. The following changes have been made to the Project Management Office (PMO) in the Department of Defence (DoD).
+
+Summary:
+In our series of letters from software developers, we've written about a meeting between a developer, a project manager, an architect, and a client.
+
+[ENGINEER]
+KW rate: 0.05
+Facts:
+In our series of letters from software developers, we've taken a look back at some of the highlights and lowlights of the year in the world of software development. This is a verbatim transcript of a meeting between a developer, a project manager, and an architect working on an Amazon Web Services (AWS) project. In our series of letters from software engineers, BBC News takes a look at some of the most common questions developers get from their clients. The following changes have been made to the Project Management Office (PMO) in order to improve the quality and consistency of the service provided to our customers.
+
+Summary:
+This is a verbatim transcript of a meeting between a developer, a project manager, and an architect working on an Amazon Web Services (AWS) project.
+
+[STAKEHOLDER]
+KW rate: 0.00
+Facts:
+In our series of letters from software developers, we're looking at what's been going on behind the scenes in the world of software development. In our series of letters from technology journalists, technology writer and BBC technology correspondent Stephen Sackur looks at some of the key issues that technology teams face when developing software. In our series of letters from software developers, BBC News takes a look at some of the most frequently asked questions about software development. The following changes have been made to the Project Management Office (PMO) in the UK.
+
+Summary:
+In our series of letters from software developers, we're looking at some of the most frequently asked questions about software development.
