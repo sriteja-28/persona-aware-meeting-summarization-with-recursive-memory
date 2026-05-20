@@ -26,7 +26,7 @@ Ensure you have **Python 3.8+** installed along with Jupyter Notebook or Jupyter
 
 ### 2. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/sriteja-28/persona-aware-meeting-summarization-with-recursive-memory.git](https://github.com/sriteja-28/persona-aware-meeting-summarization-with-recursive-memory.git)
 cd your-repo-name
 
 3. Create and Activate a Virtual Environment
